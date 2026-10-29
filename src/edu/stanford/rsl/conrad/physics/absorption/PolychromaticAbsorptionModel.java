@@ -74,6 +74,7 @@ public class PolychromaticAbsorptionModel extends AbsorptionModel {
 		this.inputSpectrum = spectrum;
 		// precompute energies:
 		energies = inputSpectrum.getPhotonEnergies();
+		System.out.println("Energies: "+energies+"Length of energies: "+energies.length);
 		// precompute intensities:
 		photonFlux = new double[energies.length];
 		for (int i = 0; i < energies.length; i++){

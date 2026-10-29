@@ -15,3 +15,8 @@ LSO: 			d=7.4  ; F=Lu2SO5
 LuYAP-80: 		d=7.5   ; F=Lu8Y2Al10O30	
 PWO: 			d=8.28 ; F=PbWO4
 LuAP: 			d=8.34 ; F=LuAlO3
+LampblackInk:  d=1.25  ; F=C8H14O2
+IrongallInk:   d=1.45  ; F=FeC10H16O7
+Papyrus:       d=0.75  ; F=C6H10O5
+Palmleaf:      d=0.85  ; F=C6H10O5
+Vellum:        d=1.20  ; F=C5H9NO2
